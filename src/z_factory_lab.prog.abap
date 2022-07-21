@@ -20,7 +20,7 @@ START-OF-SELECTION.
   computer_2->build_computer( ).
   DATA(descr_2) = computer_2->get_full_description( ).
 
-
+  "Alteração teste
   ULINE.
 
 
